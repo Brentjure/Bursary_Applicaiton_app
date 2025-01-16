@@ -80,6 +80,11 @@ The Bursary Application System follows a simplified microservices architecture w
 6. Application is validated and saved to the database.
    
    
+![rabbitmq](https://github.com/user-attachments/assets/9f26170c-b750-48ca-a0a0-5fc33c2cd123)
+![rabbitmq payload](https://github.com/user-attachments/assets/9fe0b85a-65df-41d9-92bb-4dd5a8012c45)
+![Screenshot 2025-01-16 232640](https://github.com/user-attachments/assets/ee67497b-9d43-4381-a2fb-89c462c93612)
+![Screenshot 2025-01-16 232717](https://github.com/user-attachments/assets/64cecbca-6750-454a-8622-4de114a0d929)
+![Screenshot 2025-01-16 232745](https://github.com/user-attachments/assets/751a3e59-1c2c-4b2e-8a49-d83e78d2bb2e)
 
 ```
 

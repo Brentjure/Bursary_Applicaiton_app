@@ -29,8 +29,8 @@ The database consists of the application table:
 | phone_number       | VARCHAR(20)  | Student's phone number                    |
 | gender             | VARCHAR(255) | Student's gender                          |
 | kcse_grade         | VARCHAR(255) | Student's kcse grade                      |
-| school             | VARCHAR(50)  | Status of the application                 |
-| programe_fees      | TIMESTAMP    | Date of application                       |
+| school             | VARCHAR(50)  | Name of the school                        |
+| programe_fees      | VARCHAR(255) | fees of the program                       |
  
 
 ---

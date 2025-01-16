@@ -87,6 +87,7 @@ The Bursary Application System follows a simplified microservices architecture w
 ![Screenshot 2025-01-16 232745](https://github.com/user-attachments/assets/751a3e59-1c2c-4b2e-8a49-d83e78d2bb2e)
 
 ```
+![rabbitmq](https://github.com/user-attachments/assets/ce7815be-811e-433a-9b2c-b989ac4c25ba)
 
 ---
 

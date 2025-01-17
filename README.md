@@ -87,7 +87,9 @@ Print Screen of Queue created on rabbitmq
 
 Three print screen 
 -![Screenshot 2025-01-16 232745](https://github.com/user-attachments/assets/cae3d091-a4f5-4b66-91e1-90fd04034266)
---
+--![Screenshot 2025-01-16 232717](https://github.com/user-attachments/assets/079d5b76-11b7-4ee8-a00f-d4ce4b3a255e)
+![Screenshot 2025-01-16 232640](https://github.com/user-attachments/assets/bd31bcc3-65c7-4b57-9786-84a0648a3c88)
+
 
 ## Installation
 1. Clone the repository:

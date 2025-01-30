@@ -6,7 +6,8 @@ The Bursary Application System is designed to streamline the process of submitti
 ---
 ![Screenshot 2025-01-31 003551](https://github.com/user-attachments/assets/c7fd5961-4046-4510-bc37-56072d0a8227)
 ![Screenshot 2025-01-31 003614](https://github.com/user-attachments/assets/2357f024-717a-4761-a0b0-1100645e55f6)
-![Uploading Screenshot 2025-01-31 003635.png…]()
+![Screenshot 2025-01-31 003635](https://github.com/user-attachments/assets/27383dff-f10d-4eb1-ad1f-f21e66769b97)
+
 
 
 

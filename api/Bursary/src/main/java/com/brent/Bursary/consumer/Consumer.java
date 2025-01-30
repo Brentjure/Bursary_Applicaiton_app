@@ -16,7 +16,7 @@ public class Consumer {
 
     @RabbitListener(queues = RabbitMQConfig.QUEUE)
     public void comsume(BursaryResponseBody bursaryResponseBody) {
-        System.out.println(" consumer is able to consume message from the queues " + bursaryResponseBody);
+       System.out.println(" consumer is able to consume message from the queues " + bursaryResponseBody);
 
         // Extract the EmployeeEntity from BursaryResponseBody
         BursaryEntity bursaryEntity = bursaryResponseBody.getBursary();

@@ -1,0 +1,31 @@
+.home-section{
+
+        padding: 3.2rem;
+        max-width: 120rem;
+        margin: 0 auto;
+}
+
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 9rem;
+}
+
+.bursary-imgbox{
+    width: 70%;      
+}
+
+.bursary-img {
+    width: 100% !important;
+    border-radius: 2rem; 
+    /* height: auto !important;     */
+    /* display: block !important;   */
+    /* margin: auto !important;     */
+}
+
+
+/* .home-img{
+    width: 100%;
+    border-radius: 1rem;
+} */

@@ -4,6 +4,11 @@
 The Bursary Application System is designed to streamline the process of submitting and managing bursary applications. It uses a modern architecture incorporating RabbitMQ for event-driven messaging and ensures scalability, fault tolerance, and separation of concerns.
 
 ---
+![Screenshot 2025-01-31 003551](https://github.com/user-attachments/assets/c7fd5961-4046-4510-bc37-56072d0a8227)
+![Screenshot 2025-01-31 003614](https://github.com/user-attachments/assets/2357f024-717a-4761-a0b0-1100645e55f6)
+![Uploading Screenshot 2025-01-31 003635.png…]()
+
+
 
 ## Features
 1. Students submit applications via a user-friendly frontend.
@@ -61,6 +66,10 @@ The Bursary Application System follows a simplified microservices architecture w
 ---
 
 ## Process Flow Diagram
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/029cfb82-a73f-47bb-81bd-4435c064fa0d)
+
+
+
 ```plaintext
 1. Student submits application via frontend.
    |
